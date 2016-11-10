@@ -133,10 +133,10 @@ public class Mercadona {
         System.out.println("La media es " + media);
 
     }
+    
 
-    /**
-     * @param args the command line arguments
-     */
+   
+  
     public static void main(String[] args) {
         rellenarDatos();
         mostrarTodosLosProductos();
